@@ -1,6 +1,7 @@
 <p>
   <img src="https://github.com/vaibhavjanaskar45/CIVIX-Site-Management-App/raw/main/assets/civixlogo.jpg" alt="Civix Logo" width="200"/>
 </p>
+
 # Civix App 🚧
 
 A powerful Flutter-based construction management app built to streamline project oversight, inventory tracking, and team collaboration.

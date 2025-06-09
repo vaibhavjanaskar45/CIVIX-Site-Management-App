@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796058398306",
+    "project_id": "civixdatabase",
+    "storage_bucket": "civixdatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796058398306:android:f84716faef8cb8be9f2b3b",
+        "android_client_info": {
+          "package_name": "com.example.civix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtgTzGU8SipvBWmacwCu2vhDZWLf9_hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

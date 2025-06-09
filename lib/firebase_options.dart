@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCH9UPEqr7jVfBEvo6jH-mp0oZxTIOEqeo',
-    appId: '1:796058398306:web:10ccb8d7b89f82319f2b3b',
-    messagingSenderId: '796058398306',
+    apiKey: 'xxxxx',
+    appId: 'xxxxx',
+    messagingSenderId: 'xxxxx',
     projectId: 'civixdatabase',
     authDomain: 'civixdatabase.firebaseapp.com',
     storageBucket: 'civixdatabase.firebasestorage.app',
-    measurementId: 'G-WWCJW0KFX8',
+    measurementId: 'xxxxx',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDmtgTzGU8SipvBWmacwCu2vhDZWLf9_hM',
-    appId: '1:796058398306:android:f84716faef8cb8be9f2b3b',
-    messagingSenderId: '796058398306',
+    apiKey: 'xxxxx',
+    appId: 'xxxxx',
+    messagingSenderId: 'xxxxx',
     projectId: 'civixdatabase',
     storageBucket: 'civixdatabase.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCBaJG6_SlpjOFJeQJ9VwTm5LeNinWg_H8',
-    appId: '1:796058398306:ios:38162381bebf82769f2b3b',
-    messagingSenderId: '796058398306',
+    apiKey: 'xxxxx',
+    appId: 'xxxxx',
+    messagingSenderId: 'xxxxx',
     projectId: 'civixdatabase',
     storageBucket: 'civixdatabase.firebasestorage.app',
     iosBundleId: 'com.example.civix',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCH9UPEqr7jVfBEvo6jH-mp0oZxTIOEqeo',
-    appId: '1:796058398306:web:169fbe70dce9d7dd9f2b3b',
-    messagingSenderId: '796058398306',
+    apiKey: 'xxxxx',
+    appId: 'xxxxx',
+    messagingSenderId: 'xxxxx',
     projectId: 'civixdatabase',
     authDomain: 'civixdatabase.firebaseapp.com',
     storageBucket: 'civixdatabase.firebasestorage.app',
-    measurementId: 'G-PG9FNQP24E',
+    measurementId: 'xxxxx',
   );
 }

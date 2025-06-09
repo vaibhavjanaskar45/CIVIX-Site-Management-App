@@ -56,15 +56,13 @@ The app empowers Super Admins to manage all projects, Admins to handle day-to-da
 
 - **Flutter** - Cross-platform UI toolkit  
 - **Firebase Firestore** - Real-time Database  
-- **Firebase Auth** - User Authentication  
-- **Cloud Functions (Optional)** - Backend Logic  
 - **Dart** - Programming Language
 
 ## 🚀 Installation
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/civix.git
+git clone 
 cd civix
 ```
 ### Step 2: Install Dependencies
